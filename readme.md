@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анастасия Ничипорчук](https://up.htmlacademy.ru/nodejs/3/user/612797).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Вохмянин](https://up.htmlacademy.ru/nodejs/3/user/530823).
 
 ---
 
